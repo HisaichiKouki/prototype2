@@ -65,6 +65,7 @@ int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
 
 	};
 
+
 	int map[mapSizeY][mapSizeX]{};
 
 
